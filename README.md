@@ -1,3 +1,4 @@
+![DALL·E 2024-02-29 18 14 00 - Design a project image for the NADOO-Network-Manager software  The image should illustrate a sleek and modern interface of an application on a compute](https://github.com/NADOOIT/NADOO-Netzwerk-Manager/assets/106314951/00a0cc2c-8e27-4189-81fa-5e7fe052ef7a)
 # NADOO-Netzwerk-Manager
 
 ## Überblick
@@ -19,3 +20,6 @@ Der NADOO-Netzwerk-Manager ist eine innovative Anwendung, die speziell dafür en
 
 ## Ziel
 Unser Ziel ist es, Geschäftsleuten ein Werkzeug an die Hand zu geben, mit dem sie ihre Netzwerke effizient verwalten, Herausforderungen identifizieren und lösen sowie wertvolle Kontakte knüpfen können. Mit dem NADOO-Netzwerk-Manager gewinnen Sie wertvolle Einblicke in Ihre Geschäftsbeziehungen und erschließen neue Möglichkeiten für Wachstum und Erfolg.
+
+# App Icon
+![DALL·E 2024-02-29 18 14 03 - Create an app icon for the NADOO-Network-Manager  The icon should be simple yet impactful, incorporating elements that suggest networking, conversatio](https://github.com/NADOOIT/NADOO-Netzwerk-Manager/assets/106314951/ac953db9-475d-4b7d-8682-0a96edfbf065)
